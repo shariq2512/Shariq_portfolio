@@ -1,26 +1,3 @@
 node_modules/
 
-# Node modules
-node_modules/
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Build output
-.next/
-out/
-dist/
-build/
-
-# OS & editor files
-.DS_Store
-.env
-.vscode/
-.idea/
-
-# Dependency locks (optional, if you're not using lockfiles)
-package-lock.json
-yarn.lock
 
