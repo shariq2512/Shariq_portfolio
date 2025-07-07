@@ -29,7 +29,7 @@ const ProfileOverview = () => {
                 download
                 className="flex items-center gap-x-2 rounded-full bg-gray-300 px-3 py-2 text-sm font-semibold tracking-tight text-slate-950 hover:text-teal-800"
             >
-                Resume
+                Download Resume
                 <FaDownload />
             </a>
             <p className="my-10 text-center text-5xl font-semibold tracking-tighter lg:text-[10rem]">
