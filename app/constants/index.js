@@ -1,7 +1,5 @@
 import company1 from "../../public/c1.jpeg";
 import company2 from "../../public/c2.jpeg";
-import company3 from "../../public/c3.jpeg";
-import company4 from "../../public/c4.jpeg";
 
 import bookMyEvents from "../../public/bookMyEvents.png";
 import carePulse from "../../public/logo-icon.svg";
@@ -10,7 +8,7 @@ import tenzies from "../../public/Tenzies.png";
 
 export const PROFILE = {
   name: "Shariq Khan",
-  city: "Bath, UK 🇬🇧",
+  city: "Slough, UK 🇬🇧",
   greet: "Nice to Meet you!",
 };
 
@@ -38,11 +36,11 @@ export const PROJECTS = [
 ];
 
 export const SKILLS = [
-  "HTML, CSS, JavaScript, React",
-  "Next.js, Tailwind CSS, TypeScript",
-  "Node.js, MongoDB, Appwrite",
-  "RESTful APIs, Git, Clerk",
-  "Vercel, Netlify, Heroku"
+  "JavaScript, TypeScript, HTML, CSS",
+  "React.js, Next.js, Tailwind CSS",
+  "Node.js, Express.js, Mongodb, SQL",
+  "Git, GitHub, Vercel, Appwrite, Sentry, Twilio, Clerk",
+  "RESTful APIs, Agile, CI/CD, Testing, Version Control"
 ];
 
 export const EXPERIENCES = [
@@ -57,9 +55,9 @@ export const EXPERIENCES = [
   {
     img: company2,
     year: "2019 - 2021",
-    role: "MERN Stack Developer",
-    company: "Pataran technologies",
-    description: `Contributed to the development of web applications using JavaScript, React.js, Express and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["JavaScript", "React.js", "Node.js", "Express", "MongoDB"],
+    role: "Resolution Specialist",
+    company: "Amazon Development Center Pvt Ltd",
+    description: `Provided technical and operational support for customer service associates. Collaborated with internal product teams to resolve escalations and improve workflows. Utilized data analysis tools and internal dashboards to monitor case metrics and performance.`,
+    technologies: ["Excel", "SQL", "CRM Tools", "AWS Services", "Data Analysis"],
   },
 ];
